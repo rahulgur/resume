@@ -1,0 +1,12 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+  width: auto;
+  max-width: 5000px;
+  padding:  50px;
+    background:green;
+    margin:auto;
+}
+

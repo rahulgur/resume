@@ -1,0 +1,33 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+  
+  max-width:1000px;
+  padding: 50px;
+    background:green;
+    margin:0px auto;
+}
+
+.green
+{
+    background:red;
+    width:100%;
+    padding:20px;
+    
+}
+.yellow
+{
+       background:yellow;
+ width:100%;
+    padding: 20px;
+    
+}
+.blue
+{
+    background:blue;
+    width:100%;
+    padding: 20px;
+    
+}
